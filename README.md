@@ -14,6 +14,6 @@ A one-command Bash script to set up your dev environment (Node.js, Python, VS Co
 ## Usage
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/lazy-dev-setup.git
+git clone https://github.com/mishereshu/lazy-dev-setup.git
 cd lazy-dev-setup
 ./lazy.sh
